@@ -8,7 +8,7 @@ This project is for those who are trying to build a spellchecker in NLP
 
 Copy SPELLCHECKER DELETED.nlp file in any python environment (Jupyter, spyder, pycharm, ........) 
 
-Change the NUCLEARCORPUS.TXT with your own pdf or txt file.
+Change the NUCLEARCORPUS.TXT with your own pdf or txt file or download from this repository.
 
 Change image from the GUI and add your own background image in .png format. 
 
